@@ -1,3 +1,7 @@
+CREATE DATABASE myapp;
+
+USE myapp;
+
 CREATE TABLE usuarios (
     nome VARCHAR(255) NOT NULL
 );
